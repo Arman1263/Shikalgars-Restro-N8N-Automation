@@ -6,7 +6,7 @@ An AI-powered food ordering bot for **Shikalgar's Restaurant**, built with [n8n]
 
 ![Workflow Diagram](workflow.png)
 
-![Orders]()
+![Orders](orders.png)
 
 ---
 
